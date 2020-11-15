@@ -1,0 +1,2 @@
+# bernoulli-simulation
+practicum project
